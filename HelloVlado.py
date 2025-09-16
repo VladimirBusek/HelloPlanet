@@ -1,0 +1,1 @@
+print("Jsi jednička.")
